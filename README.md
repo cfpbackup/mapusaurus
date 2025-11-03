@@ -1,4 +1,6 @@
-Mapusaurus [![Build Status](https://travis-ci.org/cfpb/mapusaurus.png)](https://travis-ci.org/cfpb/mapusaurus) [![Coverage Status](https://coveralls.io/repos/cfpb/mapusaurus/badge.svg)](https://coveralls.io/r/cfpb/mapusaurus)
+# Mapusaurus
+
+This public repo of an internal project has been archived.
 
 ![Mapusaurus screenshot](screenshot.png)
 
